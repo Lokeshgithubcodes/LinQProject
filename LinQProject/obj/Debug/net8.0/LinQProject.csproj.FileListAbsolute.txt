@@ -1,0 +1,15 @@
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.sourcelink.json
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\bin\Debug\net8.0\LinQProject.exe
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\bin\Debug\net8.0\LinQProject.deps.json
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\bin\Debug\net8.0\LinQProject.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\bin\Debug\net8.0\LinQProject.dll
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\bin\Debug\net8.0\LinQProject.pdb
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.dll
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\refint\LinQProject.dll
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.pdb
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\LinQProject.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\LinQProject\LinQProject\obj\Debug\net8.0\ref\LinQProject.dll
